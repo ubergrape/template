@@ -1,0 +1,13 @@
+{
+  "name": "template",
+  "repo": "Swatinem/template",
+  "version": "0.0.1",
+  "description": "Small template helper component",
+  "keywords": [],
+  "scripts": [
+    "index.js"
+  ],
+  "dependencies": {
+  },
+  "license": "LGPLv3"
+}
