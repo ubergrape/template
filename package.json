@@ -1,0 +1,11 @@
+{
+  "name": "template",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Small template helper component",
+  "keywords": [],
+  "dependencies": {
+  },
+  "license": "LGPLv3",
+  "repository": "Swatinem/template"
+}
